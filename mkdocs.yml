@@ -1,0 +1,14 @@
+site_name: Decision Engine SDK
+site_description: The objective of this document is to provide step-by-step instructions for implementing the Decision Engine SDK
+nav:
+  - What is Decision Engine: 'about_sdk.md'
+  - Objective of the Document: 'objective.md'
+  - api: 'api.md'
+  - deployment_strategy: 'deployment_strategy.md'
+  - drools: 'drools.md'
+  - executionresults: 'executionresults.md'
+  - index: 'index.md'
+  - overview: 'overview.md'
+  - onboarding: 'onboarding.md'
+  - post_onboarding: 'post_onboarding.md'
+  - sdk_update: 'sdk_update.md'
